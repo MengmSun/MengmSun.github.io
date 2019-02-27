@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "875274671@qq.com"
-  facebook: "孙萌萌"
+  #facebook: "孙萌萌"
   github: "MengmSun"
   #twitter: daattali
 #  reddit: yourname
@@ -92,10 +92,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: true
-  google: true
-  linkedin: true
+  #twitter: false
+  #facebook: true
+ # google: true
+  #linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -124,7 +124,7 @@ url-pretty: "catchersun.cn"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "MengmSun-github-io"
+ #disqus: "MengmSun-github-io"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
